@@ -1,0 +1,27 @@
+{
+  "name": "Nookesh",
+  "description": "Aspiring web3 Developer.",
+  "image": "https://silver-deep-cockroach-924.mypinata.cloud/ipfs/bafkreigogbiqt5atgrlvbdeskeymnhemmesdck4z2i5ewcxygktpytfpn4",
+  "external_url": "https://github.com/NookeshWeb3",
+  "attributes": [
+    {
+      "trait_type": "Developer",
+      "value": "Beginner"
+    },
+    {
+      "trait_type": "GIS Engineer",
+      "value": "5 years of experience"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Hyderabad"
+    },
+    {
+      "trait_type": "Skills",
+      "value": "Autocad, ArcGIS Pro, Smallworld, Python, Solidity"
+    }
+    
+
+
+  ]
+}
